@@ -18,6 +18,12 @@ a sanity check on using the embeddings.
 overall_best_results.xlsx: holds results of comparing manual and computer based mappings using the OpenAI 
 text-embedding-3-large model.
 
+2016-34-DD-DemoHealth.xlsx: data dictionary for study 2016-34
+2016-1407-DD-DemoHealth.xlsx: data dictionary for study 2016-1407
+2016-1450-DD-DemoHealth.xlsx: data dictionary for study 2016-1450
+2016-1740-DD-DemoHealth.xlsx: data dictionary for study 2016-1740
+2017-1945-DD-DemoHealth.xlsx: data dictionary for study 2016-1945
+
 
 
 
