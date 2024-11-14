@@ -24,6 +24,16 @@ text-embedding-3-large model.
 2016-1740-DD-DemoHealth.xlsx: data dictionary for study 2016-1740
 2017-1945-DD-DemoHealth.xlsx: data dictionary for study 2016-1945
 
+Note: this repository uses a different naming convention for the studies than that publication. 
+The mapping between names in this repository and the paper are:
+2016-1450 = Study A
+2016-1407 = Study B
+2016-1945 = Study C
+2016-34 = Study D
+2016-1740 = Study E
+
+
+
 
 
 
