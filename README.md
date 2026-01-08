@@ -1,5 +1,11 @@
 # EHLC_Data_Harmonization
-Repository for holding content from the data harmonization use case.  This repository holds:
+Repository for holding content from the data harmonization use case.  
+
+This repository holds:
+
+FinalManuscript.pdf: "Unlocking the power of data harmonization in environmental health sciences: A comprehensive exploration of signficance, use cases and recommendations for standardization efforts"; Seminar accepted for publication at Environmental Health Perspectives
+
+Supplement.pdf: Supplemental materials for manuscript
 
 Crosstab_X_Y.xlsx:  manually generated mappings of variables from studies X and Y.  Overview tab in each
 spreadsheet describes the tabs and details.
